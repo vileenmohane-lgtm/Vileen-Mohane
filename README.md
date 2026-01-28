@@ -20,11 +20,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔥 Software Developer passionate about building scalable solutions  
-- 🧩 Competitive Programmer focused on DSA  
-- 🌱 Learning Machine Learning & Data Analytics  
-- 💬 Ask me about DSA, Web Dev, or Problem Solving  
-- ⚡ Fun fact: I debug more than I sleep  
+- ⚡ Electrical Engineer focused on Power Systems and Electrical Machines.  
+- 🧩 Analytical thinker with hands-on simulation experience.
+- 🌱 Learning MATLAB, Load Flow Analysis & Renewable Energy Systems.
+- 🧩 Learning KIcad,2 D game designing,Freecad,Also familiar with Many AI.
+- ⚡ Fun fact: I am Electrical Engineer.
 
 ---
 
